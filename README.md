@@ -4,7 +4,7 @@
 
 - 🔭 I love tooling and DevX and I am currently working [@okteto](https://github.com/okteto) and previously at [@gitpod-io](https://github.com/gitpod-io) to provide devs with the best dev cloud envs experience
 - 💻 I am a co-founder of [@onoranzefunebricloud](https://github.com/onoranzefunebricloud/)
-- ✍️ I like to write [technical blog posts](https://andreafalzetti.github.io/)
+- ✍️ I like to write [technical blog posts](https://falzetti.me)
 - 💬 Ask me about 🍕 
-- 📫 [Get in touch](http://falzetti.me)
+- 📫 [Get in touch](https://falzetti.me)
 - 😄 Pronouns: he/him
