@@ -1,4 +1,4 @@
-👋 I am Andrea, a Software Engineer 👨‍💻 based in London 🇬🇧, originally from Rome 🇮🇹
+👋 I am Andrea, a Software Engineer working on Product Development for Developer Tools, previously in Platform Engineering 👨‍💻
 
 📍 Here you will find here my OSS contributions and some experimental repos! 
 
