@@ -1,10 +1,10 @@
-👋 I am Andrea, a Software Engineer working on Product Development for Developer Tools, previously in Platform Engineering 👨‍💻
+👋 I'm Andrea, a hands-on technical co-founder: I build and run the software behind [Onoranze Funebri Cloud](https://onoranzefunebricloud.com), where I'm co-founder and CTO 👨‍💻
 
-📍 Here you will find here my OSS contributions and some experimental repos! 
+📍 Here you will find my OSS contributions and some experimental repos!
 
-- 🔭 I love tooling and DevX and I am currently working [@okteto](https://github.com/okteto) and previously at [@gitpod-io](https://github.com/gitpod-io) to provide devs with the best dev cloud envs experience
-- 💻 I am a co-founder of [@onoranzefunebricloud](https://github.com/onoranzefunebricloud/)
-- ✍️ I like to write [technical blog posts](https://falzetti.me)
+- 🚢 Everything I've shipped since 2010 is on [falzetti.me/shipped](https://falzetti.me/shipped/)
+- 🔭 Previously I worked on developer tools and cloud development environments at [@okteto](https://github.com/okteto) and [@gitpod-io](https://github.com/gitpod-io), and on back-end, cloud and developer experience at DAZN
+- ✍️ I like to write [technical blog posts](https://falzetti.me/blog/)
 - 💬 Ask me about 🍕 
-- 📫 [Get in touch](https://falzetti.me)
+- 📫 [Get in touch](https://falzetti.me/#contact)
 - 😄 Pronouns: he/him
